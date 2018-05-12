@@ -12,6 +12,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31177#Ritual-Conformity--13-Interpretations-of-the-Rubrics-of-the-Prayer-Book-Agreed-Upon-by-a-Conf_
 gutenberg_issued: '2010-02-03'
 gutenberg_type: Text
 identifiers:
